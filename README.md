@@ -132,13 +132,7 @@ This dashboard helps hospital management:
 
 ## 👤 About Me
 
-I'm **Awwal**, a passionate learner on a journey into **Data Science and AI**.  
-This is my **3rd Power BI project** — each project building on the last as I work toward becoming job-ready.
-
-- 🔗 [LinkedIn](#) ← *add your LinkedIn URL*
-- 🐙 [GitHub](#) ← *add your GitHub profile URL*
-
----
+I'm **Awal**, a passionate learner on a journey into **Data Science and AI engineering**
 
 ## 📅 Completed
 
